@@ -1,0 +1,41 @@
+h1, h2 {
+  text-align: center;
+}
+
+.btn-login {
+  border: 1px solid lightblue;
+  background: lightblue;
+  border-radius: 5px;
+  font-size: 24px;
+  color: white;
+
+}
+
+.bordered-form {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 30px;
+}
+
+div {
+  width: 300px;
+  height: 200px;
+  margin: 0 auto;
+  border: 4px dashed crimson;
+}
+
+#buffdoge {
+  width: 300px;
+  height: 200px;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+td, th {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid black;
+}
